@@ -329,3 +329,10 @@
   - bugfix: Splashing a player with select reagents will no longer turn them into
       a tile
   - bugfix: Fire extinguishers now put out players again
+2025-09-19:
+  Diana:
+  - image: Updates Captains Laser, Energygun, Nagant, Makarov, Secgun, and stunrevolver
+      sprites
+  - code_imp: Removes unused lines of code where icon = gun.dmi was redefined
+  - image: Splits the _mob and icon files for fluff items into two files
+  - bugfix: Fixes a few broken fluff sprites
